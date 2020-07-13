@@ -1,0 +1,35 @@
+# Manta 
+# Author: Ahloi
+
+set default-bg                  "#1E2541"
+set default-fg                  "#EEFFFF"
+
+set statusbar-fg                "#1E2541"
+set statusbar-bg                "#C792EA"
+
+set inputbar-bg                 "#FFA56B"
+set inputbar-fg                 "#1E2541"
+
+set notification-bg             "#57C7FF"
+set notification-fg             "#1E2541"
+
+set notification-error-bg       "#F0719B"
+set notification-error-fg       "#1E2541"
+
+set notification-warning-bg     "#F02E6E"
+set notification-warning-fg     "#EEFFFF"
+
+set highlight-color             "#89DDFF"
+set highlight-active-color      "#57C7FF"
+
+set completion-bg               "#C792EA"
+set completion-fg               "#A742EA"
+
+set completion-highlight-fg     "#EEFFFF"
+set completion-highlight-bg     "#1E2541"
+
+set recolor-lightcolor          "#1E2541"
+set recolor-darkcolor           "#EEFFFF"
+
+set recolor                     "true"
+set recolor-keephue             "false"
