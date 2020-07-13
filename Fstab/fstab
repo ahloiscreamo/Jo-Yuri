@@ -1,0 +1,6 @@
+UUID=0b373e83-a6bf-487a-8b21-d1af39ac3e90 / ext4 defaults 0 1
+UUID=C954-04B8 /boot/efi vfat defaults 0 2
+UUID=e7a6debc-21c8-462f-a56e-9a5741201003 /home ext4 defaults 0 2
+UUID=7088f02f-2e9a-4899-bf7f-39a586b3e0d2 /media/Kingston ext4 defaults 0 0
+UUID=1b5e6c70-f3fa-4e88-a91e-d5d00e69ad54 /media/Ahloi ext4 defaults 0 0  
+tmpfs /tmp tmpfs defaults,nosuid,nodev 0 0
