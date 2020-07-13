@@ -1,0 +1,22 @@
+[Default Applications]
+image/jpeg=sxiv-rifle.desktop
+video/webm=mpv.desktop
+video/x-matroska=mpv.desktop
+video/mp4=mpv.desktop
+application/pdf=org.pwmt.zathura.desktop
+video/webM=mpv.desktop
+application/octet-stream=mpv.desktop
+image/png=sxiv-rifle.desktop
+video/MP2T=mpv.desktop
+video/avi=mpv.desktop
+video/x-msvideo=mpv.desktop
+image/webp=sxiv-rifle.desktop
+video/flv=mpv.desktop
+video/x-flv=mpv.desktop
+text/plain=nvim.desktop
+audio/mpeg=mpv.desktop
+application/x-rar=unrar.desktop
+image/gif=sxiv.desktop
+
+[Added Associations]
+font/ttf=org.gnome.FontViewer.desktop;

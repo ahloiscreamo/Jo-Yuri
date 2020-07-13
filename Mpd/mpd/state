@@ -1,0 +1,82 @@
+sw_volume: 100
+audio_device_state:1:DigiHug USB Audio
+audio_device_state:1:my_fifo
+state: pause
+current: 55
+time: 341.994000
+random: 0
+repeat: 1
+single: 1
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:MAC MILLER/Circles (Album)/01 Circles.flac
+1:MAC MILLER/Circles (Album)/02 Complicated.flac
+2:MAC MILLER/Circles (Album)/03 Blue World.flac
+3:MAC MILLER/Circles (Album)/04 Good News.flac
+4:MAC MILLER/Circles (Album)/05 I Can See.flac
+5:MAC MILLER/Circles (Album)/06 Everybody.flac
+6:MAC MILLER/Circles (Album)/07 Woods.flac
+7:MAC MILLER/Circles (Album)/08 Hand Me Downs.flac
+8:MAC MILLER/Circles (Album)/09 That's On Me.flac
+9:MAC MILLER/Circles (Album)/10 Hands.flac
+10:MAC MILLER/Circles (Album)/11 Surf.flac
+11:MAC MILLER/Circles (Album)/12 Once A Day.flac
+12:MAC MILLER/Circles (Deluxe) (Album)/01 Circles.flac
+13:MAC MILLER/Circles (Deluxe) (Album)/02 Complicated.flac
+14:MAC MILLER/Circles (Deluxe) (Album)/03 Blue World.flac
+15:MAC MILLER/Circles (Deluxe) (Album)/04 Good News.flac
+16:MAC MILLER/Circles (Deluxe) (Album)/05 I Can See.flac
+17:MAC MILLER/Circles (Deluxe) (Album)/06 Everybody.flac
+18:MAC MILLER/Circles (Deluxe) (Album)/07 Woods.flac
+19:MAC MILLER/Circles (Deluxe) (Album)/08 Hand Me Downs.flac
+20:MAC MILLER/Circles (Deluxe) (Album)/09 That's On Me.flac
+21:MAC MILLER/Circles (Deluxe) (Album)/10 Hands.flac
+22:MAC MILLER/Circles (Deluxe) (Album)/11 Surf.flac
+23:MAC MILLER/Circles (Deluxe) (Album)/12 Once A Day.flac
+24:MAC MILLER/Circles (Deluxe) (Album)/13 Right.flac
+25:MAC MILLER/Circles (Deluxe) (Album)/14 Floating.flac
+26:MAC MILLER/GOOD AM (Album)/01 Doors.flac
+27:MAC MILLER/GOOD AM (Album)/02 Brand Name.flac
+28:MAC MILLER/GOOD AM (Album)/03 Rush Hour.flac
+29:MAC MILLER/GOOD AM (Album)/04 Two Matches (feat. Ab-Soul).flac
+30:MAC MILLER/GOOD AM (Album)/05 100 Grandkids.flac
+31:MAC MILLER/GOOD AM (Album)/06 Time Flies (feat. Lil B).flac
+32:MAC MILLER/GOOD AM (Album)/07 Weekend (feat. Miguel).flac
+33:MAC MILLER/GOOD AM (Album)/08 Clubhouse.flac
+34:MAC MILLER/GOOD AM (Album)/09 In the Bag.flac
+35:MAC MILLER/GOOD AM (Album)/10 Break the Law.flac
+36:MAC MILLER/GOOD AM (Album)/11 Perfect Circle - God Speed.flac
+37:MAC MILLER/GOOD AM (Album)/12 When in Rome.flac
+38:MAC MILLER/GOOD AM (Album)/13 ROS.flac
+39:MAC MILLER/GOOD AM (Album)/14 Cut the Check (feat. Chief Keef).flac
+40:MAC MILLER/GOOD AM (Album)/15 Ascension.flac
+41:MAC MILLER/GOOD AM (Album)/16 Jump.flac
+42:MAC MILLER/GOOD AM (Album)/17 The Festival (feat. Little Dragon).flac
+43:MAC MILLER/Good News (Single)/01 Good News.flac
+44:MAC MILLER/Mac Miller - Swimming (2018) [FLAC]/1. Come Back to Earth.flac
+45:MAC MILLER/Mac Miller - Swimming (2018) [FLAC]/2. Hurt Feelings.flac
+46:MAC MILLER/Mac Miller - Swimming (2018) [FLAC]/3. What's the Use-.flac
+47:MAC MILLER/Mac Miller - Swimming (2018) [FLAC]/4. Perfecto.flac
+48:MAC MILLER/Mac Miller - Swimming (2018) [FLAC]/5. Self Care.flac
+49:MAC MILLER/Mac Miller - Swimming (2018) [FLAC]/6. Wings.flac
+50:MAC MILLER/Mac Miller - Swimming (2018) [FLAC]/7. Ladders.flac
+51:MAC MILLER/Mac Miller - Swimming (2018) [FLAC]/8. Small Worlds.flac
+52:MAC MILLER/Mac Miller - Swimming (2018) [FLAC]/9. Conversation Pt. 1.flac
+53:MAC MILLER/Mac Miller - Swimming (2018) [FLAC]/10. Dunno.flac
+54:MAC MILLER/Mac Miller - Swimming (2018) [FLAC]/11. Jet Fuel.flac
+55:MAC MILLER/Mac Miller - Swimming (2018) [FLAC]/12. 2009.flac
+56:MAC MILLER/Mac Miller - Swimming (2018) [FLAC]/13. So It Goes.flac
+57:MAC MILLER/The Divine Feminine (Album)/01 Congratulations (feat. Bilal).flac
+58:MAC MILLER/The Divine Feminine (Album)/02 Dang! (feat. Anderson .Paak).flac
+59:MAC MILLER/The Divine Feminine (Album)/03 Stay.flac
+60:MAC MILLER/The Divine Feminine (Album)/04 Skin.flac
+61:MAC MILLER/The Divine Feminine (Album)/05 Cinderella (feat. Ty Dolla $ign).flac
+62:MAC MILLER/The Divine Feminine (Album)/06 Planet God Damn (feat. Njomza).flac
+63:MAC MILLER/The Divine Feminine (Album)/07 Soulmate.flac
+64:MAC MILLER/The Divine Feminine (Album)/08 We (feat. CeeLo Green).flac
+65:MAC MILLER/The Divine Feminine (Album)/09 My Favorite Part.flac
+66:MAC MILLER/The Divine Feminine (Album)/10 God Is Fair Sexy Nasty (feat. Kendrick Lamar).flac
+playlist_end
